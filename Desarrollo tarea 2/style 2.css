@@ -1,0 +1,40 @@
+/*CSS reset settings here*/
+
+* {
+    outline: 1px solid coral;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 970px;
+    background-color: #1b335d;
+    margin: 0px auto;
+}
+
+.header {
+    margin: 5px;
+    width: 800px;
+    background-color: #cf2f36;
+    padding: 5px;
+    border-radius: 25px;
+    color: #c2d6ec;
+}
+
+.middle {
+    background-color: #1b335d;
+}
+
+.izq {
+    background-color: #2a7d8c;
+    display: inline-block;
+}
+
+.der {
+    background-color: #0e1822;
+    display: inline-block
+}
+
+.footer {
+    background-color: #5d6673;
+}

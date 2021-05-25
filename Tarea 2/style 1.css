@@ -1,0 +1,83 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 950px;
+    background-color: rgb(44, 50, 136);
+    margin: 0px auto;
+    padding: 15px;
+}
+
+#header {
+    min-height: 50px;
+    background-color: rgb(162, 26, 26);
+    margin-bottom: 20px;
+    margin-top: 7px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#navigation {
+    min-height: 300px;
+    width: 200px;
+    background-color: rgb(28, 184, 181);
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15px;
+    border-radius: 10px;
+    margin-right: 1px;
+}
+
+#main_content {
+    min-height: 400px;
+    width: 700px;
+    background-color: black;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.footer {
+    width: 920px;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+h1 {
+    color: rgba(247, 241, 241, 0.898);
+}
+
+p {
+    color: rgb(60, 96, 119);
+}
+
+ul {
+    padding: 5px;
+    margin: 5px;
+}
+
+h2 {
+    color: rgb(193, 207, 233);
+}
+
+p {
+    color: rgb(193, 207, 233);
+}
+
+span {
+    color: brown;
+}
+
+::marker {
+    color: cornsilk;
+}
+
+li {
+    margin-bottom: 2px;
+}
