@@ -1,0 +1,115 @@
+            /*CSS reset settings here*/
+            
+            * {
+                margin: 0px;
+                padding: 0px;
+            }
+            
+            #wrapper {
+                background-color: rgb(233, 224, 224);
+                width: 950px;
+                height: 900px;
+            }
+            
+            #Bloque {
+                background-image: radial-gradient(white, #6f5964, #1b0b0f);
+                height: 900px;
+                width: 950px;
+            }
+            
+            #Bloque1 {
+                background-color: blanchedalmond;
+                height: 270px;
+                width: 470px;
+                display: inline-block;
+                vertical-align: top;
+                margin-block: 20px;
+                background-image: linear-gradient(to right, white, #cebfcc)
+            }
+            
+            #mifoto {
+                height: auto;
+                width: 400px;
+                border: 4px solid cornsilk;
+                margin: 20px;
+            }
+            
+            h1 {
+                display: inline-block;
+                margin-right: 200px;
+            }
+            
+            h2 {
+                display: inline-block;
+                margin-left: 190px;
+            }
+            
+            h3 {
+                background-image: linear-gradient(white, gray, white);
+                background-color: gray;
+                color: rgb(17, 17, 17);
+                padding: 3px;
+            }
+            
+            #b1 {
+                padding: 5px;
+            }
+            
+            #a1 {
+                padding: 5px;
+            }
+            
+            #a2 {
+                padding: 3px;
+            }
+            
+            #secciones {
+                padding: 5px;
+            }
+            
+            #seccion1 {
+                height: 450px;
+                width: 250px;
+                vertical-align: top;
+                margin-left: 20px;
+                background-image: linear-gradient(to right, white, #cebfcc)
+            }
+            
+            #Lamode {
+                height: auto;
+                width: 250px;
+                margin-top: -18px;
+            }
+            
+            .tecnologias {
+                width: 45px;
+            }
+            
+            .centrado {
+                text-align: center;
+            }
+            
+            button {
+                background-color: #407d61;
+                color: white;
+                width: 70px;
+                border-radius: 20px;
+            }
+            
+            #seccion2 {
+                height: auto;
+                width: 250px;
+                vertical-align: top;
+                margin-left: 280px;
+                background-image: linear-gradient(to right, white, #cebfcc)
+            }
+            
+            #Family {
+                height: auto;
+                width: 250px;
+                margin-top: -18px;
+            }
+            
+            #imagenes {
+                padding: 8px;
+            }

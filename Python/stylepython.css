@@ -1,0 +1,44 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#Bloquebase {
+    background-color: rgb(66, 131, 216);
+    width: 950px;
+    height: 900px;
+}
+
+#logopython {
+    height: auto;
+    width: 400px;
+    color: whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h4 {
+    color: white;
+}
+
+#buscador {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 200px;
+    width: 300px;
+    height: 100px;
+}
+
+p {
+    color: white;
+}
+
+.tono1 {
+    color: yellow;
+}
+
+#piper {
+    color: black;
+}
